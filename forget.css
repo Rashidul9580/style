@@ -1,0 +1,30 @@
+div{
+    text-align: center;
+    background-color: aquamarine;
+}
+h1{
+    color:rgb(0, 0, 0)
+}
+h3{
+    color: rgba(0, 0, 0, 0.548);
+}
+input{
+    font-size: large;
+    width: 30%;
+    height: 35px;
+}
+.search{
+    width: 100px;
+    color: white;
+    background-color: rgb(77, 114, 236);
+}
+.cancel{
+    background-color: rgb(223, 248, 248);
+    font-weight: 800;
+
+}
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: larger;
+}

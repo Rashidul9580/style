@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+}
+
+div{
+    text-align: center;
+    background-color:aquamarine
+
+}
+h1{
+    font-size: 39px;
+    color: blue
+}
+input{
+    font-size: larger;
+    width: 30%;
+    height: 35px;
+}
+a{
+    text-decoration: none;
+    font-size:larger ;
+    color: blue
+}
+#checkbox{
+ width: auto;
+ height: 15px;
+
+}
+#login_now{
+    background-color: rgba(8, 3, 250, 0.466);
+    width: auto;
+    font-size: larger;
+    color: white
+}
